@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing video games that would make a life-changing impact on people.
 - 🌱 I’m currently learning Swift and Python
 - 💞️ I’m looking to collaborate in the future
-- 📫 How to reach me: @
+- 📫 How to reach me: i'm on discord!
 
 <!---
 ushiro-inari/ushiro-inari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
